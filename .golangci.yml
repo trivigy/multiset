@@ -1,0 +1,20 @@
+run:
+  tests: false
+
+linters-settings:
+  govet:
+    check-shadowing: false
+  misspell:
+    locale: US
+
+linters:
+  enable-all: true
+  disable:
+    - maligned
+    - lll
+    - gocritic
+    - gochecknoinits
+    - gochecknoglobals
+
+issues:
+  exclude-use-default: false
