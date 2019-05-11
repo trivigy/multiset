@@ -1,8 +1,8 @@
 # Multiset
-[![Travis (.com) branch](https://img.shields.io/travis/com/trivigy/multiset/master.svg?logo=travis)](https://travis-ci.com/trivigy/multiset)
+[![CircleCI branch](https://img.shields.io/circleci/project/github/trivigy/multiset/master.svg?label=master&logo=circleci)](https://circleci.com/gh/trivigy/workflows/multiset)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
 [![](https://godoc.org/github.com/trivigy/multiset?status.svg&style=flat)](http://godoc.org/github.com/trivigy/multiset)
-![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/trivigy/multiset.svg?style=flat&color=e36397&label=release)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/trivigy/multiset.svg?style=flat&color=e36397&label=release)](https://github.com/trivigy/multiset/releases/latest)
 
 Multiset is a threadsafe abstract data structure library for representing 
 collection of distinct values, without any particular order. Unlike a set, 
